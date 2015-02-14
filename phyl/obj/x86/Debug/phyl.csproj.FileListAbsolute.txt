@@ -1,0 +1,9 @@
+d:\用户目录\documents\visual studio 2010\Projects\phyl\phyl\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\用户目录\documents\visual studio 2010\Projects\phyl\phyl\obj\x86\Debug\phyl.Properties.Resources.resources
+d:\用户目录\documents\visual studio 2010\Projects\phyl\phyl\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\用户目录\documents\visual studio 2010\Projects\phyl\phyl\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\用户目录\Documents\Visual Studio 2010\Projects\phyl\phyl\bin\Debug\phyl.exe
+D:\用户目录\Documents\Visual Studio 2010\Projects\phyl\phyl\bin\Debug\phyl.pdb
+D:\用户目录\Documents\Visual Studio 2010\Projects\phyl\phyl\obj\x86\Debug\phyl.exe
+D:\用户目录\Documents\Visual Studio 2010\Projects\phyl\phyl\obj\x86\Debug\phyl.pdb
+D:\用户目录\Documents\Visual Studio 2010\Projects\phyl\phyl\obj\x86\Debug\phyl.Form1.resources
